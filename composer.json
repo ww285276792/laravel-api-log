@@ -1,5 +1,5 @@
 {
-  "name": "luffy/laravel-api-log",
+  "name": "luffies/laravel-api-log",
   "description": "A Laravel api log SDK.",
   "license": "MIT",
   "autoload": {
