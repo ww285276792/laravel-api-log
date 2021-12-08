@@ -5,7 +5,7 @@
 ## 安装
 
 ```shell
-$ composer require luffy/laravel-api-log
+$ composer require luffies/laravel-api-log
 ```
 
 ## 配置
